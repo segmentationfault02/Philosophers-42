@@ -1,7 +1,8 @@
 # Philosophers
 
 <div align="center">
-  <img src="assets/score.png" alt="Score 100/100" width="150"/>
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/63ee82cd-cdab-43ca-b1e2-a758fb174f7c" />
+
   <h3>Le Problème des Philosophes - Synchronisation et Multithreading</h3>
   <p><em>Projet réalisé dans le cadre du cursus de 42 Lausanne</em></p>
 
